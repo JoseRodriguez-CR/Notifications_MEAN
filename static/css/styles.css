@@ -1,0 +1,28 @@
+
+.chatbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0% 25%;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 600px;
+    overflow-y: scroll;
+    width: 50%;
+    Border-radius: 5px;
+}
+.containerBtn{
+    display: flex;
+    justify-content: center;
+}
+.notifyBtn{
+    font-size: 25px;
+    margin: 20px;
+    width: 225px;
+    height: 50px;
+    background-color: rgb(10, 67, 172);
+    color: white;
+    border-radius: 5px;
+    Border-radius: 5px;
+
+}
